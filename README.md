@@ -23,4 +23,4 @@ Maven Surefire Plugin
 Maven Cucumber Reporting
 
 Preconditions:
-Create authentification on https://www.ivet.ro/ro/login.html for 2 users
+Create authentication on https://www.ivet.ro/ro/login.html for 2 users
